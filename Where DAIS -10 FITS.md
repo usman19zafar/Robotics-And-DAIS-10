@@ -1,5 +1,7 @@
-Where DAIS‑10 fits in robotics (clean list)
+Where DAIS‑10 fits in robotics
+
 Industrial robots
+
 object tracking
 
 tool lifecycle
