@@ -1,3 +1,36 @@
+How to Read This Diagram
+Sensors → Perception
+ROS 2 sensor nodes publish raw data.
+Perception node converts it into structured observations.
+
+DAIS‑10 Semantic Layer
+This is the meaning engine ROS 2 never had:
+
+SIS‑10 interprets meaning
+
+SIF‑10 assigns influence
+
+MCM‑10 classifies semantic roles
+
+TIER‑10 assigns governance tiers
+
+SICM‑10 scores semantic intensity
+
+DIFS‑10 models drift and fading
+
+QFIM‑10 qualifies meaning for planning
+
+AMD‑10 diagnoses semantic failures
+
+ROS 2 Core
+Fusion integrates semantic meaning across sensors
+
+Planner uses semantic constraints for task + motion
+
+Control executes semantically‑aware actions
+
+Diagnostics publishes semantic health
+
 ```mermaid
 flowchart TD
 
